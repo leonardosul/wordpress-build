@@ -7,6 +7,7 @@ dbhost="localhost"
 dbuser="root"
 dbpass="root"
 
+answer=$1
 
 echo "Starting Wordpress Build"
 
